@@ -7,3 +7,8 @@
 
 ## 수정과제
 수정하고 add, commit, push 해보기
+
+```
+python sample code
+
+```
