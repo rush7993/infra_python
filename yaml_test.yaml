@@ -1,0 +1,10 @@
+name: 박다정
+addr: 목포
+foods: 
+  - 맥주
+  - 치킨
+isMan: true
+body:
+  weight: 77
+  height: 177
+  
